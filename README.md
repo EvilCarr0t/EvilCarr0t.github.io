@@ -4,6 +4,9 @@
 # Бричков Никита, 041 группа
 ![N|Solid](https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/052/014/image/base_d9dd9b626f.jpg)
 
+## Ссылка на страницу в Tilda
+
+[![N|Solid](https://cdn.icon-icons.com/icons2/2428/PNG/512/tilda_black_logo_icon_147070.png)](http://project6513982.tilda.ws)
 
 <style>
 /* Стили кнопки */
@@ -39,7 +42,5 @@
 
 iframe title="Interactive image" frameborder="0" width="1200" height="674" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6378d7e28460fb0017c365a1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe>
 
-
-http://project6513982.tilda.ws
 
 ![layer](https://user-images.githubusercontent.com/114459505/207221413-1408fd26-2f58-427a-91fd-da399f45c98b.png)
