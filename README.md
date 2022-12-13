@@ -1,3 +1,6 @@
+![happy_new_year_0](https://user-images.githubusercontent.com/114459505/207221585-0db261b7-5c65-4de2-88c9-5fd80e6a1ee3.jpg)
+
+
 # Бричков Никита, 041 группа
 ![N|Solid](https://storage.theoryandpractice.ru/tnp/uploads/image_block/000/052/014/image/base_d9dd9b626f.jpg)
 
